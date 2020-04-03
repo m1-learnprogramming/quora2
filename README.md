@@ -1,5 +1,4 @@
-# quora2
-Sandbox for hyperlink on Facebook
+
 Hỏi: Người ta làm giàu như thế nào vậy?
 Trả lời: Anthony Galli, bình luận viên
 28.5k views, 557 Upvotes, 6 Shares
